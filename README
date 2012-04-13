@@ -1,0 +1,14 @@
+=====
+The english dictionary file is obtained from http://free.pages.at/rnbmusiccom/fulldictionary00.zip.
+
+=====
+Usage:
+
+python draw_something.py cceefhhikkrs 8
+All possible words:
+============================================================
+  0, checkers
+  1, cheekish
+  2, cheshire
+  3, kerchief
+
